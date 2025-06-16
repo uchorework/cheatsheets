@@ -12,7 +12,7 @@ Welcome to my collection of developer-friendly **cheatsheets**! This repository 
 |------------------|---------------------------------------------|---------|
 | 🐍 Python         | [python-cheatsheet.md](cheatsheets/python-cheatsheet.md)           | 📝 |
 | 🧪 Git & GitHub   | [git-cheatsheet.md](cheatsheets/git-cheatsheet.md)                 | 📝 |
-| 📦 Docker         | [docker-cheatsheet.md](cheatsheets/docker-cheatsheet.md)           | 🔄 |
+| 📦 Docker         | [docker-cheatsheet.md](/docker-cheatsheet.md)           | 🔄 |
 | 🖥️ Linux CLI      | [linux-cli.md](cheatsheets/linux-cli.md)                           | 📝 |
 | ⚛️ React          | [react-hooks.md](cheatsheets/react-hooks.md)                       | 📝 |
 | ☁️ Kubernetes     | [kubernetes-basics.md](cheatsheets/kubernetes-basics.md)           | 📝 |
